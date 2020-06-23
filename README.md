@@ -45,3 +45,5 @@ The scripts folder is under development, but the blog post can be run to see our
 To run the Jupyter Notebook version of the blog located in the presentations directory, activate the environment.yml.  You will then have all of the packages required to run the code from the first cell to the last.
 
 Alternatively, should you want to merely visualize our approach and results, you can also see our blog in HTML format, also found in the presentations directory.
+
+**PLEASE NOTE: This is a partial workflow exploring LIDAR's ability to characterize the sagebrush ecosystem.  For further exploration using hyperspectral products, please see the parent repo kessb.  For multispectral, please see another sarahmjaffe repo 'sagebrush-ecosystem-modeling-with-Landsat'.** 
